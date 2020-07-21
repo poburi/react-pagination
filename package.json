@@ -21,7 +21,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://poburi.github.io/react-detail-view/",
+  "homepage": "https://poburi.github.io/react-detail-view",
   "eslintConfig": {
     "extends": "react-app"
   },
